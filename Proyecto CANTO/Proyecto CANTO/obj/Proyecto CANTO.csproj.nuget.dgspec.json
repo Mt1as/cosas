@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sr Ossas\\Desktop\\QWE\\cosas\\Proyecto CANTO\\Proyecto CANTO\\Proyecto CANTO.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\alaa\\cosas\\Proyecto CANTO\\Proyecto CANTO\\Proyecto CANTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sr Ossas\\Desktop\\QWE\\cosas\\Proyecto CANTO\\Proyecto CANTO\\Proyecto CANTO.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\alaa\\cosas\\Proyecto CANTO\\Proyecto CANTO\\Proyecto CANTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sr Ossas\\Desktop\\QWE\\cosas\\Proyecto CANTO\\Proyecto CANTO\\Proyecto CANTO.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\alaa\\cosas\\Proyecto CANTO\\Proyecto CANTO\\Proyecto CANTO.csproj",
         "projectName": "Proyecto CANTO",
-        "projectPath": "C:\\Users\\Sr Ossas\\Desktop\\QWE\\cosas\\Proyecto CANTO\\Proyecto CANTO\\Proyecto CANTO.csproj",
-        "packagesPath": "C:\\Users\\Sr Ossas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sr Ossas\\Desktop\\QWE\\cosas\\Proyecto CANTO\\Proyecto CANTO\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\alaa\\cosas\\Proyecto CANTO\\Proyecto CANTO\\Proyecto CANTO.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\alaa\\cosas\\Proyecto CANTO\\Proyecto CANTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sr Ossas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -43,23 +42,16 @@
         "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
-              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }

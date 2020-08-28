@@ -44,7 +44,7 @@ namespace Proyecto_CANTO
 			Console.WriteLine("Tecnicatura Universitaria en Programación");
 			Console.WriteLine("Cátedra de recursada – 2020");
 			Console.WriteLine("");
-			Console.WriteLine("Segundo Taller ");
+			Console.WriteLine("QUE PINGO SE ");
 			Console.WriteLine("Ejercicio 2: Venta de pasajes aéreos");
 			Console.WriteLine("");
 			Console.WriteLine("Abel Fernandez");
