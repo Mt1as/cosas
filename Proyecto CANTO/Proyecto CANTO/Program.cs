@@ -42,7 +42,7 @@ namespace Proyecto_CANTO
 			Console.WriteLine("alla ura");
 			Console.WriteLine("Facultad Regional del trula");
 			Console.WriteLine("Tecnicatura Universitaria en Programación");
-			Console.WriteLine("Cátedra de Programación I – 2019");
+			Console.WriteLine("Cátedra de recursada – 2020");
 			Console.WriteLine("");
 			Console.WriteLine("Segundo Taller ");
 			Console.WriteLine("Ejercicio 2: Venta de pasajes aéreos");
