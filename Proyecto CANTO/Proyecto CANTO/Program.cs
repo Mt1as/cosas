@@ -40,7 +40,7 @@ namespace Proyecto_CANTO
 			_PrecioPasaje[2] = 100;
 
 			Console.WriteLine("alla ura");
-			Console.WriteLine("Facultad Regional Tucumán");
+			Console.WriteLine("Facultad Regional del trula");
 			Console.WriteLine("Tecnicatura Universitaria en Programación");
 			Console.WriteLine("Cátedra de Programación I – 2019");
 			Console.WriteLine("");
