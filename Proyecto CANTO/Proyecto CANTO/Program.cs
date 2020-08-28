@@ -39,7 +39,7 @@ namespace Proyecto_CANTO
 			_PrecioPasaje[1] = 200;
 			_PrecioPasaje[2] = 100;
 
-			Console.WriteLine("Universidad Tecnológica Nacional");
+			Console.WriteLine("alla ura");
 			Console.WriteLine("Facultad Regional Tucumán");
 			Console.WriteLine("Tecnicatura Universitaria en Programación");
 			Console.WriteLine("Cátedra de Programación I – 2019");
