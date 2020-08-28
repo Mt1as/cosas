@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Programas en C#\Proyecto CANTO\Proyecto CANTO\bin\Debug\netcoreapp2.1\Proyecto CANTO.deps.json
+C:\Users\Usuario\Desktop\Programas en C#\Proyecto CANTO\Proyecto CANTO\bin\Debug\netcoreapp2.1\Proyecto CANTO.runtimeconfig.json
+C:\Users\Usuario\Desktop\Programas en C#\Proyecto CANTO\Proyecto CANTO\bin\Debug\netcoreapp2.1\Proyecto CANTO.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Programas en C#\Proyecto CANTO\Proyecto CANTO\bin\Debug\netcoreapp2.1\Proyecto CANTO.dll
+C:\Users\Usuario\Desktop\Programas en C#\Proyecto CANTO\Proyecto CANTO\bin\Debug\netcoreapp2.1\Proyecto CANTO.pdb
+C:\Users\Usuario\Desktop\Programas en C#\Proyecto CANTO\Proyecto CANTO\obj\Debug\netcoreapp2.1\Proyecto CANTO.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Programas en C#\Proyecto CANTO\Proyecto CANTO\obj\Debug\netcoreapp2.1\Proyecto CANTO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programas en C#\Proyecto CANTO\Proyecto CANTO\obj\Debug\netcoreapp2.1\Proyecto CANTO.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Programas en C#\Proyecto CANTO\Proyecto CANTO\obj\Debug\netcoreapp2.1\Proyecto CANTO.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programas en C#\Proyecto CANTO\Proyecto CANTO\obj\Debug\netcoreapp2.1\Proyecto CANTO.dll
+C:\Users\Usuario\Desktop\Programas en C#\Proyecto CANTO\Proyecto CANTO\obj\Debug\netcoreapp2.1\Proyecto CANTO.pdb
